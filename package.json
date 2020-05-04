@@ -1,0 +1,14 @@
+{
+  "name": "chr-writer",
+  "version": "0.1.0",
+  "description": "create a chr file from image files for use with the NES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bmp-js": "^0.1.0"
+  }
+}
